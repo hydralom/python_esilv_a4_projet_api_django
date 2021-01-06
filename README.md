@@ -1,3 +1,11 @@
-# python_esilv_a4_projet_api_django
+# ESILV - A4 Projet Python for data analysis
 
-using : https://archive.ics.uci.edu/ml/datasets/Page+Blocks+Classification
+Dataset : https://archive.ics.uci.edu/ml/datasets/Page+Blocks+Classification
+
+Sujet : [ici](sujet.pdf)
+
+Présentation : [ici]()
+
+Notebook : [ici](notebook/workdir/projet.ipynb)
+
+Api : [ici]()
