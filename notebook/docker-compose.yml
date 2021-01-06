@@ -3,7 +3,7 @@ services:
   datascience-notebook:
       image:    jupyter/datascience-notebook:latest
       volumes:
-        - ./workir:/home/jovyan/work
+        - ./workdir:/home/jovyan/work
         - ./data:/home/jovyan/work/datasets
       ports:
         - 8888:8888
